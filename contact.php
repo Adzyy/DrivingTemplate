@@ -59,5 +59,11 @@
 		</div> <!-- End row -->
 	</div> <!-- End container -->
 
+	<div class="spacer"></div> <!-- SPACER -->
+
+	<div class="map">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39969.67301902014!2d-0.24647310028954766!3d51.23556912527402!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4875e351a70ddfb7%3A0x5f300b91741e7276!2sReigate%2C+Surrey!5e0!3m2!1sen!2suk!4v1449356634678" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>	
+	</div>
+
 
 <?php include('assets/footer.html'); ?>

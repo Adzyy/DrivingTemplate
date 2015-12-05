@@ -452,3 +452,9 @@ footer .footer-copyright { font-size: 12px !important; padding-bottom: 10px; }
 }
 
 .sidebar { padding-top: 50px; }
+
+.map {
+	height: 320px;
+	width: 100%;
+	background: #f8f8f8;
+}
