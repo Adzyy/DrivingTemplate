@@ -1,0 +1,181 @@
+html {
+
+}
+
+/****************
+  =HEADER
+****************/
+#top { 
+  height: 450px;
+  border-top: 8px solid #336699;
+  background-color: #CCC;
+  box-shadow: 0px 1px 3px 2px rgba(0,0,0,0.3);
+  background: url("../images/building.jpg") center no-repeat;
+  background-opacity: 0.25;
+  background-size: cover;
+}
+
+#wrapper {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.background {
+  width: 100%;
+  background-color: #FFF;
+  height: 100px;
+  margin-top: 25px;
+  border-top: 3px solid #CCC;
+  border-bottom: 3px solid #CCC;
+}
+
+header {
+  width: 960px;
+  margin: 0 auto;
+}
+
+#logo {
+  float: left;
+  text-indent: -9999px;
+}
+  #logo img { 
+    float: left;
+    width: 230px;
+    height: 55px;
+  }
+
+/****************
+  =NAVIGATION
+****************/
+nav {
+  float: right;
+  text-transform: uppercase;
+  z-index: 30;
+  margin-top: 10px;
+  overflow: hidden;
+}
+
+nav ul {
+  margin-top: 20px;
+  float: right;
+  border-bottom: 3px solid rgba(0,0,0,0.1);
+  padding-bottom: 4px;
+}
+
+nav li {
+  display: inline;
+  padding: 0 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #999;
+  padding-bottom: 1px;
+}
+  nav a:hover {
+    color: #336699;
+    border-bottom: 3px solid #336699;
+  }
+
+nav li .active {
+  color: #336699;
+  border-bottom: 3px solid #336699;
+}
+
+nav li:last-child {
+  padding-right: 0;
+}
+
+nav li:first-child {
+  padding-left: 0;
+}
+
+/****************
+  =INTRO
+****************/
+#intro {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#intro h2 {
+  line-height: 140%;
+}
+
+#intro span {
+  color: #336699;
+}
+
+/****************
+  =SLDIER
+****************/
+#slider {
+  max-width: 940px;
+  height: 400px;
+  margin: 0 auto;
+  box-shadow: 0 1px 1px 1px rgba(0,0,0,0.5);
+}
+
+#slider #slide {
+  width: 100%;
+  height: 100%;
+  z-index: 5;
+  background-color: #FFF;
+  background: url('../images/banner.png') 50% center no-repeat #FFF;
+  position: relative;
+}
+
+/****************
+  =WINDOWS
+****************/
+#windows {
+  text-align: center;
+}
+
+#windows span {
+  font-size: 30px;
+}
+
+/****************
+  =MISCELLANEOUS
+****************/
+.divider {
+  width: 100%;
+  height: 30px;
+}
+
+
+#content {
+  display: inline-block;
+}
+
+aside {
+  
+}
+
+
+.hr2 {
+  width: 100%;
+  height: 1px;
+  background-color: #336699;
+  display: inline;
+  float: right;
+}
+
+.conent h3 {
+  float: left;
+}
+
+
+
+/* TEMP */
+.image {
+  margin: 20px 0 10px;
+  width: 100%;
+  height: 100%;
+  height: 200px; width: 140px;
+  background: red;
+  background: url(../images/banner.png) center no-repeat;
+  background-size: cover;
+  border: 1px solid #336699;
+}
