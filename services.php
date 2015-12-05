@@ -10,6 +10,7 @@
   </div> <!-- End page-header -->
 
   <div class="clearfix"></div> <!-- CLEARFIX -->
+	<div class="spacer"></div> <!-- SPACER -->
 
   <div class="container">
 		<div class="content-header">

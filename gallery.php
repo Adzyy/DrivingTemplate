@@ -10,80 +10,80 @@
   </div> <!-- End page-header -->
 
   <div class="clearfix"></div> <!-- CLEARFIX -->
+	<div class="spacer"></div> <!-- SPACER -->
 
-    <div class="container">
-      <div class="row">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="content-header">
+					<h2>Our Successful Students</h2>
+					<span class="header-sub">With <b>over a million miles</b> clocked up over 12 years, we are rated the best driving school in surrey.</span>
+					<div class="divider2"></div> <!-- End divider2 -->
+				</div> <!-- End content-header -->
+			</div>
 
-          <div class="col-lg-12">
-            <div class="content-header">
-	         <h2>Our Successful Students</h2>
-		     <span class="header-sub">With <b>over a million miles</b> clocked up over 12 years, we are rated the best driving school in surrey.</span>
-		     <div class="divider2"></div> <!-- End divider2 -->
-	</div> <!-- End content-header -->
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-              <a class="thumbnail" href="#">
-                  <img class="img-responsive" src="http://placehold.it/400x300" alt="">
-              </a>
-          </div>
-          <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-              <a class="thumbnail" href="#">
-                  <img class="img-responsive" src="http://placehold.it/400x300" alt="">
-              </a>
-          </div>
-          <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-              <a class="thumbnail" href="#">
-                  <img class="img-responsive" src="http://placehold.it/400x300" alt="">
-              </a>
-          </div>
-          <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-              <a class="thumbnail" href="#">
-                  <img class="img-responsive" src="http://placehold.it/400x300" alt="">
-              </a>
-          </div>
-          <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-              <a class="thumbnail" href="#">
-                  <img class="img-responsive" src="http://placehold.it/400x300" alt="">
-              </a>
-          </div>
-          <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-              <a class="thumbnail" href="#">
-                  <img class="img-responsive" src="http://placehold.it/400x300" alt="">
-              </a>
-          </div>
-          <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-              <a class="thumbnail" href="#">
-                  <img class="img-responsive" src="http://placehold.it/400x300" alt="">
-              </a>
-          </div>
-          <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-              <a class="thumbnail" href="#">
-                  <img class="img-responsive" src="http://placehold.it/400x300" alt="">
-              </a>
-          </div>
-          <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-              <a class="thumbnail" href="#">
-                  <img class="img-responsive" src="http://placehold.it/400x300" alt="">
-              </a>
-          </div>
-          <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-              <a class="thumbnail" href="#">
-                  <img class="img-responsive" src="http://placehold.it/400x300" alt="">
-              </a>
-          </div>
-          <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-              <a class="thumbnail" href="#">
-                  <img class="img-responsive" src="http://placehold.it/400x300" alt="">
-              </a>
-          </div>
-          <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-              <a class="thumbnail" href="#">
-                  <img class="img-responsive" src="http://placehold.it/400x300" alt="">
-              </a>
-          </div> 
-        </div> <!-- End row -->
-      </div> <!-- End container -->
+			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+					<a class="thumbnail" href="#">
+							<img class="img-responsive" src="http://placehold.it/400x300" alt="">
+					</a>
+			</div>
+			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+					<a class="thumbnail" href="#">
+							<img class="img-responsive" src="http://placehold.it/400x300" alt="">
+					</a>
+			</div>
+			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+					<a class="thumbnail" href="#">
+							<img class="img-responsive" src="http://placehold.it/400x300" alt="">
+					</a>
+			</div>
+			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+					<a class="thumbnail" href="#">
+							<img class="img-responsive" src="http://placehold.it/400x300" alt="">
+					</a>
+			</div>
+			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+					<a class="thumbnail" href="#">
+							<img class="img-responsive" src="http://placehold.it/400x300" alt="">
+					</a>
+			</div>
+			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+					<a class="thumbnail" href="#">
+							<img class="img-responsive" src="http://placehold.it/400x300" alt="">
+					</a>
+			</div>
+			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+					<a class="thumbnail" href="#">
+							<img class="img-responsive" src="http://placehold.it/400x300" alt="">
+					</a>
+			</div>
+			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+					<a class="thumbnail" href="#">
+							<img class="img-responsive" src="http://placehold.it/400x300" alt="">
+					</a>
+			</div>
+			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+					<a class="thumbnail" href="#">
+							<img class="img-responsive" src="http://placehold.it/400x300" alt="">
+					</a>
+			</div>
+			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+					<a class="thumbnail" href="#">
+							<img class="img-responsive" src="http://placehold.it/400x300" alt="">
+					</a>
+			</div>
+			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+					<a class="thumbnail" href="#">
+							<img class="img-responsive" src="http://placehold.it/400x300" alt="">
+					</a>
+			</div>
+			<div class="col-lg-3 col-md-4 col-xs-6 thumb">
+					<a class="thumbnail" href="#">
+							<img class="img-responsive" src="http://placehold.it/400x300" alt="">
+					</a>
+			</div> 
+		</div> <!-- End row -->
+	</div> <!-- End container -->
 
   <div class="spacer"></div>
 

@@ -43,53 +43,56 @@
 	</div> <!-- End row -->
 	</div> <!-- End Images -->
   </div> <!-- End container -->
+	<div class="spacer"></div> <!-- SPACER -->
+	
 
-		<div class="team col-md-12">
-				<div class="container">
-				<hr />
-				<div class="row">
-				<div class="content-header">
-					<h2>Meet The Team</h2>
-				<span class="header-sub">With a combined total of 35+ years of UK driving instructing</span>
-				<div class="divider2"></div> <!-- End divider2 -->
-				</div> <!-- End content-header -->
-				
-						<div class="team-member col-md-4">
-							<div class="team-member-image">
-								<img src="images/team/team-member1.jpg" />
-							</div> <!-- End team-member-image -->
-									<div class="team-member-bio">
-										<h3>Becky Pillow</h3>
-										<div class="divider"></div>
-											<p>Ad pro tale prodesset ullamcorper. Regione constituto pro at, agam phaedrum nominati duo ne. Et vim possim disputando. Eum liber minimum ex, nihil civibus per ea. In quo falli choro.</p>
-									</div> <!-- End team-member-name -->
-						</div> <!-- End team-member -->
-						
-						<div class="team-member col-md-4">
-							<div class="team-member-image">
-								<img src="images/team/team-member3.jpg" />
-							</div> <!-- End team-member-image -->
-									<div class="team-member-bio">
-										<h3>John Doe</h3>
-										<div class="divider"></div>
-											<p>Ad pro tale prodesset ullamcorper. Regione constituto pro at, agam phaedrum nominati duo ne. Et vim possim disputando. Eum liber minimum ex, nihil civibus per ea. In quo falli choro.</p>
-									</div> <!-- End team-member-name -->
-						</div> <!-- End team-member -->
-						
-						<div class="team-member col-md-4">
-							<div class="team-member-image">
-								<img src="images/team/team-member2.jpg" />
-							</div> <!-- End team-member-image -->
-									<div class="team-member-bio">
-										<h3>Victoria Andrews</h3>
-										<div class="divider"></div>
-											<p>Ad pro tale prodesset ullamcorper. Regione constituto pro at, agam phaedrum nominati duo ne. Et vim possim disputando. Eum liber minimum ex, nihil civibus per ea. In quo falli choro.</p>
-									</div> <!-- End team-member-name -->
-						</div> <!-- End team-member -->		
-				
-				</div> <!-- End row -->
-				</div> <!-- End container -->
-		</div> <!-- End team -->
+	<div class="team col-md-12">
+			<div class="container">
+			<hr />
+			<div class="spacer"></div> <!-- SPACER -->
+			<div class="row">
+			<div class="content-header">
+				<h2>Meet The Team</h2>
+			<span class="header-sub">With a combined total of 35+ years of UK driving instructing</span>
+			<div class="divider2"></div> <!-- End divider2 -->
+			</div> <!-- End content-header -->
+
+					<div class="team-member col-md-4">
+						<div class="team-member-image">
+							<img src="images/team/team-member1.jpg" />
+						</div> <!-- End team-member-image -->
+								<div class="team-member-bio">
+									<h3>Becky Pillow</h3>
+									<div class="divider"></div>
+										<p>Ad pro tale prodesset ullamcorper. Regione constituto pro at, agam phaedrum nominati duo ne. Et vim possim disputando. Eum liber minimum ex, nihil civibus per ea. In quo falli choro.</p>
+								</div> <!-- End team-member-name -->
+					</div> <!-- End team-member -->
+
+					<div class="team-member col-md-4">
+						<div class="team-member-image">
+							<img src="images/team/team-member3.jpg" />
+						</div> <!-- End team-member-image -->
+								<div class="team-member-bio">
+									<h3>John Doe</h3>
+									<div class="divider"></div>
+										<p>Ad pro tale prodesset ullamcorper. Regione constituto pro at, agam phaedrum nominati duo ne. Et vim possim disputando. Eum liber minimum ex, nihil civibus per ea. In quo falli choro.</p>
+								</div> <!-- End team-member-name -->
+					</div> <!-- End team-member -->
+
+					<div class="team-member col-md-4">
+						<div class="team-member-image">
+							<img src="images/team/team-member2.jpg" />
+						</div> <!-- End team-member-image -->
+								<div class="team-member-bio">
+									<h3>Victoria Andrews</h3>
+									<div class="divider"></div>
+										<p>Ad pro tale prodesset ullamcorper. Regione constituto pro at, agam phaedrum nominati duo ne. Et vim possim disputando. Eum liber minimum ex, nihil civibus per ea. In quo falli choro.</p>
+								</div> <!-- End team-member-name -->
+					</div> <!-- End team-member -->		
+
+			</div> <!-- End row -->
+			</div> <!-- End container -->
+	</div> <!-- End team -->
 
 		<div class="clearfix"></div> <!-- CLEARFIX -->
 		<div class="spacer"></div> <!-- SPACER -->

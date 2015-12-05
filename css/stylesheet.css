@@ -441,3 +441,14 @@ footer .footer-copyright { font-size: 12px !important; padding-bottom: 10px; }
 	background: #e74c3c;
 	margin: 15px auto;
 }
+
+.red { color:red;	}
+.form-area
+{
+	background-color: #FAFAFA;
+	padding: 10px 40px 60px;
+	margin: 10px 0px 60px;
+	border: 1px solid GREY;
+}
+
+.sidebar { padding-top: 50px; }
